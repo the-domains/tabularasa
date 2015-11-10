@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TabulaRasa]]></title>
         <description><![CDATA[TabulaRasa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tabularasa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 07:17:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 07:18:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tabularasa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/tabularasa/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">09147860-62a9-48f3-a4d6-c6108efde43f</guid>
-            <pubDate>Tue, 10 Nov 2015 07:17:13 GMT</pubDate>
+            <pubDate>Tue, 10 Nov 2015 07:17:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
